@@ -1,0 +1,2 @@
+# newThonny
+Fixed Thonny project!
